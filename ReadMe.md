@@ -1,5 +1,5 @@
 # Olá! Eu sou o Phellipe
-💻 Estou cursando Análise e Desenvolvimento de Sistemas.<br>🐍 Sou estudante de Python.<br>
+📚 Estou cursando Análise e Desenvolvimento de Sistemas.<br>🐍 Sou estudante de Python.<br>
 
 
 # 💻 Tech Stack:
