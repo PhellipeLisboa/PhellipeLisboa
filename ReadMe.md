@@ -6,7 +6,7 @@
 
 ## Sobre
 
-Olá, me chamo Phellipe, tenho 23 anos e estou me formando em Análise e Desenvolvimento de Sistemas pela Unigranrio. Me interessei pela primeira vez por programação quando tive meu primeiro contato com Python durante uma disciplina de Métodos Computacionais em Física I. Mais tarde, ao decidir deixar o curso de Física, resolvi dar uma chance à área de tecnologia. Durante a graduação, explorei diferentes áreas, desde data science até desenvolvimento web, sendo esta a que mais despertou meu interesse. Atualmente, estou tentando me especializar em backend com Java.
+Olá, me chamo Phellipe, tenho 23 anos e estou me formando em Análise e Desenvolvimento de Sistemas pela Unigranrio. Me interessei pela primeira vez por programação quando tive contato com Python durante uma disciplina de Métodos Computacionais em Física I. Mais tarde, ao decidir deixar o curso de Física, resolvi dar uma chance à área de tecnologia. Durante a graduação, explorei diferentes áreas, desde data science até desenvolvimento web, sendo esta a que mais despertou meu interesse. Atualmente, estou tentando me especializar em backend com Java.
 
 
 # 💻 Tech Stack
