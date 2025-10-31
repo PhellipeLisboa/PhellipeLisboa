@@ -6,7 +6,7 @@
 
 ## Sobre
 
-Olá, me chamo Phellipe! Me interessei pela primeira vez por programação quando tive contato com Python durante uma disciplina de Métodos Computacionais em Física I. Mais tarde, ao decidir deixar o curso de Física, resolvi dar uma chance à área de tecnologia. Explorei diferentes áreas, desde data science até desenvolvimento web, sendo esta a que mais despertou meu interesse. Atualmente, estou tentando me especializar em backend com Java.
+Olá, me chamo Phellipe! Me interessei pela primeira vez por programação quando tive contato com Python durante uma disciplina de Métodos Computacionais em Física I e, posteriormente, resolvi dar uma chance à área de tecnologia. Explorei diferentes áreas, desde data science até desenvolvimento web, sendo esta a que mais despertou meu interesse. Atualmente estou aprendendo backend com Java.
 
 ## 💻 Tech Stack
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
