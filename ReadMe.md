@@ -22,7 +22,3 @@ Olá, me chamo Phellipe! Me interessei pela primeira vez por programação quand
 - 🎮 Tenho interesse em jogos.
 - 📚 Gosto de ler livros de ficção e clássicos.
 
----
-[![](https://visitcount.itsvg.in/api?id=PhellipeLisboa&icon=0&color=11)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
