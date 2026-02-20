@@ -17,7 +17,7 @@ Olá, me chamo Phellipe! Me interessei pela primeira vez por programação quand
 
 ## Curiosidades sobre mim
 
-- 💪 Treino musculação e me arrisco na calistenia.
+- 💪 Treino musculação.
 - 🐶 Gosto muito de animais.
 - 🎮 Tenho interesse em jogos.
 - 📚 Gosto de ler livros de ficção e clássicos.
